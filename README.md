@@ -1,5 +1,5 @@
 # happy-web-version
-Happy aplicação Web
+Happy aplicação Web feita com ReactJS
 
 # Descricao
 O happy é uma aplicação permite a localização de orfanatos abertos a visitação
